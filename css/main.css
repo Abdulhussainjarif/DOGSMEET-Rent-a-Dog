@@ -77,8 +77,8 @@ nav a {
 /* Title Image */
 
 .title-image{
-    width: 90%;
-    position: absolute;
+    max-width: 100%;
+    height:auto;
     right: 10%;
 }
 
